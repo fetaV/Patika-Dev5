@@ -1,0 +1,156 @@
+img {
+    display: block;
+    margin: auto;
+}
+.container {
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+}
+
+.box1 {
+    width: 700px;
+    float: left;
+    padding-left: 150px;
+    margin-right: 100%;
+}
+
+.bgc-gray {
+    padding-right: 120px;
+    background-color: rgb(192, 186, 186);
+}
+
+.card1{
+    width: 400px;
+    float: left;
+    margin: 1px;
+}
+
+.card2{
+    width: 200px;
+    float: left;
+    margin: 1px;
+}
+
+.card3{
+    width: 150px;
+    float: left;
+    margin: 1px;
+}
+
+.bgc-blue1 {
+    height: 80px;
+    width: 400px;
+    background-color: rgb(145, 224, 235);
+
+}
+
+.bgc-blue2{
+    height: 80px;
+    width: 200px;
+    background-color: rgb(145, 224, 235);
+}
+
+.bgc-blue3{
+    height: 80px;
+    padding-left: 105px;
+    padding-right: 110px;
+    background-color: rgb(145, 224, 235);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.container {
+    width: 1000px;
+    margin: auto;
+    /*margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.card{
+    width: 20%;
+    float: left;
+    padding: 30px;
+    margin-right: 1%;
+    background-color: rgb(133, 221, 221);
+}
+
+.content {
+    text-align: center;
+    margin: 1%;
+    width: 1300px;
+    float: left;
+}
+.button1{
+    margin-left: 330px;
+}
+
+
+img {
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+
+p {
+    text-align: center;
+}
+
+input{
+    margin-left: 280px;
+    width: 320px;
+}
+
+.box1 {
+    margin: auto;
+}
+
+.bgc-gray {
+    margin-right: 50px;
+    margin-left: 50px;
+    background-color: rgb(218, 214, 214);
+}
+*/
+/*
+.card{
+    text-align: center;
+    width: 120px;
+    float: left;
+    padding: 3%;
+    margin: 1px;
+}
+
+.bgc-blue {
+    margin-left: 100px;
+    background-color: rgb(133, 221, 221);
+    float: left;
+}
+*/
